@@ -7,4 +7,4 @@ My aim is to help fellow developers using ESP products.
 Feel free to use all contents for your projects.  
 
 ### Some useful VS Code plugins:
-    - Markdown PDF -> YOu can convert your gpio chart easily to a printable pdf
+    - Markdown PDF (You can convert your gpio chart easily to a printable pdf)
